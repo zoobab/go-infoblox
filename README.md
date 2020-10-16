@@ -1,3 +1,4 @@
+[![noswpatv3](http://zoobab.wdfiles.com/local--files/start/noupcv3.jpg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
 # Deprecated
 
 Infoblox has created an official Go library.  This library was designed for Infoblox API version 1.4 in mind, and I've been avoiding changes that make the library incompatible with that version.  I recommend folks migrate to the official library.
